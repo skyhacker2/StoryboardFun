@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  BViewController.h
 //  StoryboardFun
 //
 //  Created by Eleven Chen on 15/11/27.
@@ -8,9 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
-- (IBAction)onUnwindSegue:(UIStoryboardSegue *)segue;
+@interface BViewController : UIViewController
 
 @end
-
